@@ -1,0 +1,74 @@
+a:link, a:visited, a:active, a:hover
+{	
+	color: black;
+	text-decoration:none;
+}
+
+a
+{
+	border-bottom: 1px dotted;
+}
+
+a:hover
+{
+	border-bottom: 1px solid;
+}
+
+.navigacija ul
+{
+	overflow:hidden;
+}
+
+.navigacija li
+{
+	float: left;
+}
+
+
+
+.navigacija a
+{
+	border-left: 3px grey solid;
+	padding-left: 10px;
+	color: grey;
+	display: block;
+	width: 132px;
+	border-bottom: none;
+}
+
+
+.navigacija  a:hover
+{
+	color: white;
+	border-left: 3px white solid;
+}
+
+
+
+.semestar a
+{
+	display: inline;
+	width: 50px;
+}
+
+a.mail:link
+{
+	font-family: monospace;
+	color: blue;
+}
+
+.diplomski a
+{
+	border-left: 3px black solid;
+	padding-left: 10px;
+	color: black;
+	display: block;
+	width: 190px;
+	border-bottom: none;
+}
+
+a.ovdje
+{
+	color: white;
+	border-left: 3px white solid;
+}

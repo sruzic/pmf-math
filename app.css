@@ -1,0 +1,153 @@
+#posjeta
+{
+	float: right;
+	font-variant:small-caps;
+}
+
+form fieldset{                                
+    margin:20px 0px 20px 0px;
+    width:470px;
+    display:block;
+    padding: 0px 10px 10px 10px;
+	font-size: 15px;
+}
+#stari
+{
+	float: left;
+	margin-right: 20px;
+	font-size: 14px;
+	font-family: Verdana, Sans-Serif;
+	font-variant:normal;
+}
+
+#novi
+{
+	float: left;
+	font-size: 14px;
+	font-family: Verdana, Sans-Serif;
+	font-variant:normal;
+}
+
+#fieldset1
+{
+	float: left;
+	margin-right: 20px; 
+	font-size: 14px;
+	font-family: Verdana, Sans-Serif;
+	font-variant:normal;
+}
+
+#fieldset2
+{
+	float: left;
+	font-size: 14px;
+	font-family: Verdana, Sans-Serif;
+	font-variant:normal;
+}
+
+#fieldset3
+{
+	clear: both;
+	float: left;
+	margin-right: 20px; 
+	font-size: 14px;
+	font-family: Verdana, Sans-Serif;
+	font-variant:normal;
+}
+
+#fieldset4
+{
+	float: left;
+	font-size: 14px;
+	font-family: Verdana, Sans-Serif;
+	font-variant:normal;
+}
+
+#fieldset5
+{
+	clear: both;
+	float: left;
+	margin-right: 20px;
+	font-size: 14px;
+	font-family: Verdana, Sans-Serif;
+	font-variant:normal;
+}
+
+#fieldset6
+{
+	position: relative;
+	top:47px;
+	float: left;
+	font-size: 14px;
+}
+    
+form fieldset legend{	
+    background-color:#4c4c4c;  
+            
+    color:#FFFFFF;
+    font-variant:small-caps;
+                    
+	padding: 0.25em;
+    position:relative;
+    top: -11px;
+	
+	
+	font-size: 16px;
+	font-family: Calibri, Sans-Serif;
+            
+}             
+    
+label{           
+	display:block;
+    float:left;
+    width:300px;
+    text-align:right;
+    margin:6px 5px 0px 0px;
+	font-size: 80%;
+}
+
+input 
+{
+	background: #FFFFFF;
+}
+
+input:focus 
+{ 
+	background: #FFFFFF;
+}
+    
+.button{
+    background-color:#FFFFFF;            
+    border-width:1px;
+    border-style:solid;
+	border-color:#4c4c4c;      	
+	padding:2px 5px;
+}
+
+.button:hover{
+    background-color:#4c4c4c; 
+	color: white;
+}
+    
+.selekt{
+    width: 300px;
+}
+
+.vizita{
+	color: black;
+	font-variant:small-caps;
+	position:absolute;
+	bottom:1em;
+	right:1em;
+}
+
+#broj_bod
+{
+	float:left;
+}
+
+#prosjek
+{
+	margin-left: 20px;
+	float:left;
+}

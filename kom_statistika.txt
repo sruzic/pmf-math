@@ -1,0 +1,27 @@
+Zimski Semestar
+Ljetni Semestar
+Pravila i Uvjeti
+Aplikacija
+Diplomski
+Linkovi
+Kontakt
+Teorijska
+Primijenjena
+Statistika
+Računarstvo
+Financijska
+Komentari
+
+Ime
+
+Napiši svoj komentar ovdje
+Komentiraj  by Html Comment Box [login] 
+(Apr 26, 2013) Stjepan Šebek je rekao:
+Moje dosadašnje iskustvo na smjeru Matematička statistika je odlično. Još uvijek sam na prvoj godini studija pa ne mogu ništa reći o predmetima kao što su Teorija vjerojatnosti ili Uvod u optimizaciju što bi, pretpostavljam, mnoge od vas koji ovo čitaju zanimalo, ali mogu reći par rečenica o prvoj godini studija. Najčešća zamjerka našem faksu općenito je nedostatak primjene stečenih znanja u nekim stvarnim situacijama. Iako bi se i na ovom smjeru moglo puno više toga što se nauči zaista pokušati i primjeniti, mislim da situacija po tom pitanju nije loša. Ima kolegija koji su uglavnom orijentirani na teoriju, a to su Matematička, pa čak i Primjenjena statistika, Metrički prostori, a dosta teorijski kolegiji su i Markovljevi lanci i pogotovo Slučajni procesi, ali zato se na Statističkom praktikumu, Odabranim statističkim metodama u biomedicini, Bazama podataka rješavaju neki problemi s kojima bi se kasnije zaista mogli sresti i u stvarnom životu. Što se kolokvija tiče, mali problem je što iz gotovo svih kolegija postoje najnormalniji kolokviji koji se pišu u kolokvijskom dvotjednu pa se toga dosta nakupi i često bude gužva, al mislim da smo se na to svi dosta dobro naučili već na preddiplomskom. Budući da još nisam završio niti prvu godinu diplomskog, ne znam niti puno toga o situaciji sa zapošljavanjem, ali ono malo što sam se raspitivao, situacija nije bajna kod nas, ali vani je i više nego dobra. Statistika (s naglaskom na biostatistiku) spada u jako tražena zanimanja. Ako su vam Vjerojatnosti i Statistika na preddiplomskom bili zanimljivi predmeti, siguran sam da nećete požaliti ako upišete ovaj smjer.
+ flag  like  reply
+1 
+(Apr 14, 2013) Igor Lulić je rekao:
+Za one koji se žele baviti vjerojatnošću i statistikom najbolji izbor (tko bi rekao). Smjer obiluje različitim statistikama, od matematičke (koja je napredna verzija one bazične statistike s preddiplomskog) do primijenjene i računarske. Na računarskoj statistici i primjenama u biomedicini mogu se naučiti rješavati neki konkretni problemi koji kasnije mogu pomoći i u RL. Jedini minus je što se na nekim kolegijima očekuje da su studenti upoznati sa radom u npr. SAS-u, pa se bez učenja sintakse programa odmah baca na analiziranje kodova i outputa, ali to ipak ne bude veliki problem (posebno tko se hoće više potruditi sam naučiti raditi u programu). Ja se nisam oko toga nešto pretjerano trudio, ali su mi ostale neke stvari nakon završetka diplomskog i kasnije sam radio na jednom projektu vezanom za statističku analizu podataka iz medicine (pacijentice koje boluju od određene bolesti) pa su mi metode koje sam naučio na ovom smjeru dosta pomogle i bile korisne. Kolegiji koji se ne mogu izbjeći, a koje smatram dosta zahtjevnima su Uvod u optimizaciju (iliti Linearno programiranje) i naravno Teorija Vjerojatnosti, no tko voli vjerojatnost, ovo drugo mu ne bi trebao biti veliki problem :)
+  
+1 
+rss

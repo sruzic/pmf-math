@@ -1,0 +1,54 @@
+@import url("reset.css");
+@import url("predmeti.css");
+@import url("app.css");
+@import url("linkovi.css");
+
+
+body, input, div
+{
+	font-family: Calibri , Sans-Serif;
+	font-size: 16px;
+	background: #ececec;
+}
+
+input 
+{
+	background: #f7f7f7;
+}
+
+.kontejner
+{
+	width:1024px;
+	margin: auto;
+	margin-top: 15px;	
+	background: #ececec;
+}
+
+.navigacija
+{	
+        font-size: 21px;
+	font-variant: small-caps;
+	background: #1c1c1c;
+	padding: 0.2em;
+	margin-bottom: 8px;
+}
+
+.sadrzaj
+{
+	overflow: hidden;
+	clear: left;
+}
+
+
+.tekst
+{
+	font-size: 120%;
+	font-variant: normal;
+	margin-top: 10px;
+}
+
+.diplomski
+{	
+	background: grey;
+	margin-bottom: 20px;
+}
