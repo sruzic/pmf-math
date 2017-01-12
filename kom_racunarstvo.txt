@@ -1,6 +1,6 @@
-Zimski Semestar
-Ljetni Semestar
-Pravila i Uvjeti
+Zimski
+Ljetni
+Uvjeti
 Aplikacija
 Diplomski
 Linkovi
@@ -15,37 +15,37 @@ Komentari
 Ime
 
 Napiši svoj komentar ovdje
-Komentiraj  by Html Comment Box [login] 
+Komentiraj  by Html Comment Box [login]
 (Feb 19, 2015) Sanjin Ružić je rekao:
 Komentare čitati od dna prema vrhu :)
-  
+
 (Feb 19, 2015) Sanjin Ružić je rekao:
 Strojno učenje: predavanja su dosta zahtjevna za pratiti i vecinom nitko nista ne kuzi :) Dobra stvar je da asistenti vjezbe prije kolokvija ciljanu kazu sto se sve moze pitati i to bude i vise nego dovoljno za napisati dobro kolokvij. Kolegij se inace svodi na timski rad gdje odaberete neku temu koju cete raditi a kasniej vam dosta pomazu asistenti kroz konzultacije (asistenti su btw zakon i mozete im slati mailove i ocekivati jako opsezne odgovore :). Malo je zeznuto da vec na pocetku morate odabrati temu a jos uvijek ne znate puno o strojnom.
-  
+
 (Feb 19, 2015) Sanjin Ružić je rekao:
-Odlučivanje i teorija igara: na pocektu dosta jednostavan, kasnije se malo stvari zakompliciraju. Profesor svake godine drukcije predaje pa mi se cini da na kraju ni sam ne zna sto je ispredavao sto uzrokuje dosta stresan usmeni na kraju. 
+Odlučivanje i teorija igara: na pocektu dosta jednostavan, kasnije se malo stvari zakompliciraju. Profesor svake godine drukcije predaje pa mi se cini da na kraju ni sam ne zna sto je ispredavao sto uzrokuje dosta stresan usmeni na kraju.
 
-Računalna grafika: jedan od drazih kolegija, makar je vecini studenata dosta mrzak. *Necete* raditi nikakve fensi animacije i slicno, nego se radi matematicka pozadina racunalne grafike. Kolokviji dosta teski (hint: skupljajte bonus bodove na predavanjima). Meni osobno ucenje iz slajdova dosta mukotrpan posao pa zato nabavite knjigu koju slajdovi prate, ali je dosta opsezna i dobro objasni no ako cete krenut citat dan-dva prije ispita velike su sanse da cete odmah odustati od citanja :) 
+Računalna grafika: jedan od drazih kolegija, makar je vecini studenata dosta mrzak. *Necete* raditi nikakve fensi animacije i slicno, nego se radi matematicka pozadina racunalne grafike. Kolokviji dosta teski (hint: skupljajte bonus bodove na predavanjima). Meni osobno ucenje iz slajdova dosta mukotrpan posao pa zato nabavite knjigu koju slajdovi prate, ali je dosta opsezna i dobro objasni no ako cete krenut citat dan-dva prije ispita velike su sanse da cete odmah odustati od citanja :)
 
-Matematički softver: koristan kolegij, relativno lagan, nauci se bazicno python i puno njegovih biblioteka za racunanje svega i svacega u matematici. Takoder se naucit i Latex koji cije znanje vam moze dobro doci u pisanju diplomskog rada. 
+Matematički softver: koristan kolegij, relativno lagan, nauci se bazicno python i puno njegovih biblioteka za racunanje svega i svacega u matematici. Takoder se naucit i Latex koji cije znanje vam moze dobro doci u pisanju diplomskog rada.
 
-Uvod u složeno pretraživanje podataka: mozda cak i najkorisniji kolegij na faksu. Nauci se da matematika nije svrha sama sebi nego da ima primjene. Super stvar je sta se radi nesto teoretski na predavanjima i onda se odmah nakon toga to na vjezbama nakodira i vidi se da stvarno radi. Jako pozeljno ponoviti linearnu algebru :) Polaganje se svodi na timski rad u kojem se dobije clanak koji trebate prouciti i implementirati algoritam koji je u njemu opisan. Na kraju usmeni kojeg se ne morate bojati. 
+Uvod u složeno pretraživanje podataka: mozda cak i najkorisniji kolegij na faksu. Nauci se da matematika nije svrha sama sebi nego da ima primjene. Super stvar je sta se radi nesto teoretski na predavanjima i onda se odmah nakon toga to na vjezbama nakodira i vidi se da stvarno radi. Jako pozeljno ponoviti linearnu algebru :) Polaganje se svodi na timski rad u kojem se dobije clanak koji trebate prouciti i implementirati algoritam koji je u njemu opisan. Na kraju usmeni kojeg se ne morate bojati.
 
-Android: koristan kolegij koji daje osnovno poznavanje platforme Android. Materijali prate knjigu koja se moze naci na netu i uz koju dodju gotovi kodovi tako da po meni je upitno ima li smisla ici na predavanja. Kolokviji dosta lagani, samo zahtijevaju poznavanje gradiva i zahtijevaju povezivanje kodova koje mozete imati kod sebe. 
+Android: koristan kolegij koji daje osnovno poznavanje platforme Android. Materijali prate knjigu koja se moze naci na netu i uz koju dodju gotovi kodovi tako da po meni je upitno ima li smisla ici na predavanja. Kolokviji dosta lagani, samo zahtijevaju poznavanje gradiva i zahtijevaju povezivanje kodova koje mozete imati kod sebe.
 
-Matematičko modeliranje pretraživača: nastavak slozenog pretrazivanja, no obradi se puno manje novih tema. 
-  
+Matematičko modeliranje pretraživača: nastavak slozenog pretrazivanja, no obradi se puno manje novih tema.
+
 (Feb 19, 2015) Sanjin Ružić je rekao:
-Smjer je dosta teoretski orijentiran sto ima svojih prednosti i mana. 
+Smjer je dosta teoretski orijentiran sto ima svojih prednosti i mana.
 
-Mane su svakako da po mom osobnom misljenju fali programiranja, i to malo ozbiljnijeg. Nesto vise se programira na Objektnom (C++), RP3 (C#), te donekle na RP2 (Javascript+PHP+MySql), no uglavnom su tu skolski primjeri. Iz prva dva navedena kolegija se dosta duboko ide u smislu poznavanja jezicne specifikacije, no bilo bi idealno kada bi se to isto malo vise primijenilo u praksi. Zato svakako preporucam upisati Javu na FERu gdje se kroz svakotjedne ovece zadace stvarno nauci programirati i koristit se objektno orijentiranim principima. 
+Mane su svakako da po mom osobnom misljenju fali programiranja, i to malo ozbiljnijeg. Nesto vise se programira na Objektnom (C++), RP3 (C#), te donekle na RP2 (Javascript+PHP+MySql), no uglavnom su tu skolski primjeri. Iz prva dva navedena kolegija se dosta duboko ide u smislu poznavanja jezicne specifikacije, no bilo bi idealno kada bi se to isto malo vise primijenilo u praksi. Zato svakako preporucam upisati Javu na FERu gdje se kroz svakotjedne ovece zadace stvarno nauci programirati i koristit se objektno orijentiranim principima.
 
-No kako se tehnologije dosta brzo mijenjaju vrlo je tesko pratiti taj tempo pa teoretsko poznavanje bazicnih stvari uvijek dobro dodje. Tu je prije svega najbitniji kolegij Oblikovanje i analiza algoritama, te Operacijski sustavi. Takoder ima i kolegija koji velikoj vecini studenata nece trebati u zivotu direktno jer se baziraju na cistom CS-u, no svakako da ih jedan magistar CSa mora znati - tu mislim na Matematicku logiku, Izracunljivost (te pretpostavljam Slozenost algoritama). 
+No kako se tehnologije dosta brzo mijenjaju vrlo je tesko pratiti taj tempo pa teoretsko poznavanje bazicnih stvari uvijek dobro dodje. Tu je prije svega najbitniji kolegij Oblikovanje i analiza algoritama, te Operacijski sustavi. Takoder ima i kolegija koji velikoj vecini studenata nece trebati u zivotu direktno jer se baziraju na cistom CS-u, no svakako da ih jedan magistar CSa mora znati - tu mislim na Matematicku logiku, Izracunljivost (te pretpostavljam Slozenost algoritama).
 
-Smjer nudi i dosta izbornih predmeta i to je vrlo vjerojatno sto zanima mnoge studente koje odabrati. Mogu govoriti samo iz svog iskustva pa cu nabrojati neke koje sam odlusao. 
+Smjer nudi i dosta izbornih predmeta i to je vrlo vjerojatno sto zanima mnoge studente koje odabrati. Mogu govoriti samo iz svog iskustva pa cu nabrojati neke koje sam odlusao.
 
-Meta-heuristike: kolegij baziran na timskom projektu (sto je svakako dobro jer ako ga napravite kako spada mozete kasnije pokazati nekom na razgovoru za posao) iz teme koju sami odaberete uz suglasnot profesora; klasicnih predavanja gotovo da i nema vec jedni drugima ispredavate neke odabrane teme kroz seminare. 
+Meta-heuristike: kolegij baziran na timskom projektu (sto je svakako dobro jer ako ga napravite kako spada mozete kasnije pokazati nekom na razgovoru za posao) iz teme koju sami odaberete uz suglasnot profesora; klasicnih predavanja gotovo da i nema vec jedni drugima ispredavate neke odabrane teme kroz seminare.
 
-Uvod u paralelno računanje: jedan od boljih izbornih, pogotovo ako volite numericku matematiku. Pozeljno je znanje Operacijskih sustava (dretve, sinkronizacija, barijere, itd). Zavrsni projekt malo slozeniji no nude se bonus bodovi pa samo polaganje (a i dobra ocjena) nije uopce upitno. 
-  
+Uvod u paralelno računanje: jedan od boljih izbornih, pogotovo ako volite numericku matematiku. Pozeljno je znanje Operacijskih sustava (dretve, sinkronizacija, barijere, itd). Zavrsni projekt malo slozeniji no nude se bonus bodovi pa samo polaganje (a i dobra ocjena) nije uopce upitno.
+
 rss

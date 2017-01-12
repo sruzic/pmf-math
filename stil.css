@@ -12,7 +12,7 @@ body, input, div
 	background: #ececec;
 }
 
-input 
+input
 {
 	background: #f7f7f7;
 }
@@ -21,12 +21,12 @@ input
 {
 	width:1024px;
 	margin: auto;
-	margin-top: 15px;	
+	margin-top: 15px;
 	background: #ececec;
 }
 
 .navigacija
-{	
+{
 	font-size:150%;
 	background: #1c1c1c;
 	padding: 0.2em;
@@ -55,7 +55,7 @@ input
 .veza
 {
 	height: 33px;
-	font-size: 115%;	
+	font-size: 115%;
 	padding: 5px;
 	width: 98px;
 	text-align: center;
@@ -95,7 +95,7 @@ p.info
 }
 
 .diplomski
-{	
+{
 	background: grey;
 }
 

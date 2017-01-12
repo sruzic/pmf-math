@@ -1,6 +1,6 @@
-Zimski Semestar
-Ljetni Semestar
-Pravila i Uvjeti
+Zimski
+Ljetni
+Uvjeti
 Aplikacija
 Diplomski
 Linkovi
@@ -15,44 +15,44 @@ Komentari
 Ime
 
 Napiši svoj komentar ovdje
-Komentiraj  by Html Comment Box [login] 
+Komentiraj  by Html Comment Box [login]
 (June 16, 2015) Kristijan Kvaternik je rekao:
-U svakom slučaju, možete upisati i 2 izborna na 1. godini (ukoliko želite rasteretiti 2. godinu), moći ćete bez problema sve to ispolagati. 
+U svakom slučaju, možete upisati i 2 izborna na 1. godini (ukoliko želite rasteretiti 2. godinu), moći ćete bez problema sve to ispolagati.
 
 Što se samog smjera tiče, u cjelini sam zadovoljan. Naučit ćete dosta stvari, naći odgovore na neka pitanja s preddiplomskog, ali i dobiti još 100 drugih pitanja (što je, vjerujem, super motivacija za doktorskin studij). Ono što je vrlo bitno jest da vas zanima matematika i želite saznati više o područjima o kojima ste čuli nešto na prve 3 godine: tada vam polaganje kolegija zbilja neće biti problem (svi su profesori i više nego ugodni, susretljivi i dobri predavači). Dosta ljudi ovaj smjer zna doživljavati kao jako napornim i teškim (doduše, možda i jest tako na 2. godini :)), no ako volite matematiku, naučit ćete je dosta i to na opušteniji način nego na preddiplomskom jer, kao što već rekoh, bitno je da razumijete sve te koncepte i logično zaključujete i nitko vam neće raditi probleme :)
-  
-(June 16, 2015) Kristijan Kvaternik je rekao:
-Iznimka su eventualno kolokviji iz normiranih prostora i operatora na istima koji znaju biti čudni, no niti to nije neki problem jer će vas profesor Bakić na usmenom i dalje pitati za željenu ocjenu. 
 
-Što se predmeta tiče, neki su se profesori promijenili. Tako, na primjer, projektivnu (i neeuklidsku) geometriju sada drži profesor Krčadinac i kolegij se dosta promijenio: sada postoje kolokviji i gradivo se promijenilo (malo je više kombinatornih stvari). Koliko čujem, postalo je lakše :) Metričke prostore, opću i algebarsku topologiju ove (i iduće) godine drži profesor Iljazović koji voli imati kontinuirane provjere znanja (usmene/pismene) umjesto kolokvija. Budući da je profesor dosta pedantan, iz predavanja dosta naučite, a ovaj vas sistem tjera da i redovito učite (što je dobro jer imate kolegije s kojima ste stalno u toku). Ono što je bitno jest da je profesor jednako tako pedantan i na usmenima i očekivat će da zbilja razumijete i možete raspisati i argumentirati sve što tvrdite (koliko god da metrički prostori izgledali jednostavno, ima i tu nešto gradiva za shvatiti). U svakom slučaju, preporučam da te kolegije detaljno učite i onda nećete imati problema :) Osim toga, iduće godine profesora Tadića neće biti na faksu, što znači da će ta generacija imati (vjerojatno) drukčiju algebru 1 i 2. 
+(June 16, 2015) Kristijan Kvaternik je rekao:
+Iznimka su eventualno kolokviji iz normiranih prostora i operatora na istima koji znaju biti čudni, no niti to nije neki problem jer će vas profesor Bakić na usmenom i dalje pitati za željenu ocjenu.
+
+Što se predmeta tiče, neki su se profesori promijenili. Tako, na primjer, projektivnu (i neeuklidsku) geometriju sada drži profesor Krčadinac i kolegij se dosta promijenio: sada postoje kolokviji i gradivo se promijenilo (malo je više kombinatornih stvari). Koliko čujem, postalo je lakše :) Metričke prostore, opću i algebarsku topologiju ove (i iduće) godine drži profesor Iljazović koji voli imati kontinuirane provjere znanja (usmene/pismene) umjesto kolokvija. Budući da je profesor dosta pedantan, iz predavanja dosta naučite, a ovaj vas sistem tjera da i redovito učite (što je dobro jer imate kolegije s kojima ste stalno u toku). Ono što je bitno jest da je profesor jednako tako pedantan i na usmenima i očekivat će da zbilja razumijete i možete raspisati i argumentirati sve što tvrdite (koliko god da metrički prostori izgledali jednostavno, ima i tu nešto gradiva za shvatiti). U svakom slučaju, preporučam da te kolegije detaljno učite i onda nećete imati problema :) Osim toga, iduće godine profesora Tadića neće biti na faksu, što znači da će ta generacija imati (vjerojatno) drukčiju algebru 1 i 2.
 
 Što se izbornih tiče, ima ih dosta, no najzastupljeniji su oni iz algebre. Ti su izborni ujedno i oni koji su namijenjeni samo teorijskoj pa je i samo polaganje nešto jednostavnije budući da na njima bude malo ljudi. Osim toga, ima i izbornih koji su obavezni na drugim smjerovima (matematička logika i izračunljivost, slučajni procesi, matematička i primijenjena statistika) - oni se obično polažu malo ozbiljnije. Budući da profesora Kraljevića više nema na faksu, neki njegovi izborni su se ugasili, no zato su tu neki novi izborni: na primjer, teorija analitičkih funkcija kod profesora Širole koju sam osobno slušao - to je super predmet za one kojima se svidjela kompleksna analiza.
-  
-1 
-(June 16, 2015) Kristijan Kvaternik je rekao:
-Sad završavam prvu godinu teorijske pa evo malo recentnijih komentara jer se smjer malo promijenio. Za početak, kolokvija za doma više nema, no dobra je stvar da "obični" kolokviji koji se pišu nisu jako zahtjevni :). Prva godina nije jako zahtjevna, opterećenje je (kao što su to bivši studenti rekli) slično kao i na preddiplomskom, a i sam način polaganja ispita je sličan preddiplomskom, uz razliku što se više inzistira na razumijevanju koncepata i zaključivanju nego na štrebetanju dugih računa i izvoda (što se vidi na usmenima) i što su sami ispiti dosta ležerniji (tipa, nema strogih bodovnih skala). 
 
-Pokrivaju se gotovo sva područja matematike i obavezni kolegiji se dosta nadovezuju na kolegije s 3. godine (tipa, algebra 1 i 2 detaljnije obrade stvari koje su rađene na algebarskim strukturama pa onda shvatite koliko ste puno toga zapravo prošli na tom kolegiju). Posebno je zgodno ako ste kao izborne predmete na 3. godini slušali uvod u diferencijalnu geometriju, modele geometrije i euklidske prostore jer će vam projektivna geometrija i diferencijalna geometrija 1 i 2 biti kolegiji koji se na njih nadovezuju i proširuju ih (naravno, nije problem ako ih niste slušali, samo će vam uz njih biti jednostavnije). Osim toga, dosta je zanimljivo kako se kolegiji znaju međusobno ispreplitati (tako, na primjer, koristite stvari iz opće topologije na operatorima na normiranim prostorima ili projektivnu geometriju na algebarskim krivuljama), što je super jer nemate osjećaj kao da učite samo hrpu nepovezanih teorija. 
+1
+(June 16, 2015) Kristijan Kvaternik je rekao:
+Sad završavam prvu godinu teorijske pa evo malo recentnijih komentara jer se smjer malo promijenio. Za početak, kolokvija za doma više nema, no dobra je stvar da "obični" kolokviji koji se pišu nisu jako zahtjevni :). Prva godina nije jako zahtjevna, opterećenje je (kao što su to bivši studenti rekli) slično kao i na preddiplomskom, a i sam način polaganja ispita je sličan preddiplomskom, uz razliku što se više inzistira na razumijevanju koncepata i zaključivanju nego na štrebetanju dugih računa i izvoda (što se vidi na usmenima) i što su sami ispiti dosta ležerniji (tipa, nema strogih bodovnih skala).
+
+Pokrivaju se gotovo sva područja matematike i obavezni kolegiji se dosta nadovezuju na kolegije s 3. godine (tipa, algebra 1 i 2 detaljnije obrade stvari koje su rađene na algebarskim strukturama pa onda shvatite koliko ste puno toga zapravo prošli na tom kolegiju). Posebno je zgodno ako ste kao izborne predmete na 3. godini slušali uvod u diferencijalnu geometriju, modele geometrije i euklidske prostore jer će vam projektivna geometrija i diferencijalna geometrija 1 i 2 biti kolegiji koji se na njih nadovezuju i proširuju ih (naravno, nije problem ako ih niste slušali, samo će vam uz njih biti jednostavnije). Osim toga, dosta je zanimljivo kako se kolegiji znaju međusobno ispreplitati (tako, na primjer, koristite stvari iz opće topologije na operatorima na normiranim prostorima ili projektivnu geometriju na algebarskim krivuljama), što je super jer nemate osjećaj kao da učite samo hrpu nepovezanih teorija.
 
 Budući da na smjeru obično bude jako malo ljudi, super je stvar što se za gotovo sve kolokvije i usmene možete dogovoriti, tako da dosta stvari možete pisati i odgovarati prije (ili čak poslije) kolokvijskog dvotjedna pa u samom dvotjednu imate tipa 2 kolokvija (kao u mom slučaju, na primjer). Sami kolokviji nisu jako teški (algebra, diferencijalna geometrija, projektivna geometrija) i čak da ste na nekom kiksali, na usmenom ćete moći popraviti ocjenu - profesori su po tom pitanju izuzetno susretljivi.
-  
-2 
+
+2
 (Mar 10, 2013) Luka Žunić je rekao:
-Super stvar je sto su nerijetki kolokviji za doma, jer koncept kolokvija s vecine kolegija na preddiplomskom (nabubetaj par sablonskih zadataka napamet) i nije bas za ovaj faks...opterecenje, slozio bih se s (donedavnim :P) kolegom Bakicem, slicno je kao na preddimplomskom, mozda s izuzetkom 2 kolegija: PDJ1 i TV2, tu se ima sto uciti (rekao bih i vise nego u mjeri i integralu)...od izbornih predmeta preporucam profesora Kraljevica, sa random temom-profesor spomene jako puno stvari, dakle obuhvati sirinu vise nego dubinu, vidi se puno primjera, sto i je zgodno kako bi se covjek u necemu nasao (i ono sto ce neke i vise veseliti, nema usmenog-samo predaja zadaca i kolokvij koji se doduse pise na faksu, ali se zadaci dobiju 2,3 tjedna unaprijed pa ih se doma stigne apsolvirati). 
+Super stvar je sto su nerijetki kolokviji za doma, jer koncept kolokvija s vecine kolegija na preddiplomskom (nabubetaj par sablonskih zadataka napamet) i nije bas za ovaj faks...opterecenje, slozio bih se s (donedavnim :P) kolegom Bakicem, slicno je kao na preddimplomskom, mozda s izuzetkom 2 kolegija: PDJ1 i TV2, tu se ima sto uciti (rekao bih i vise nego u mjeri i integralu)...od izbornih predmeta preporucam profesora Kraljevica, sa random temom-profesor spomene jako puno stvari, dakle obuhvati sirinu vise nego dubinu, vidi se puno primjera, sto i je zgodno kako bi se covjek u necemu nasao (i ono sto ce neke i vise veseliti, nema usmenog-samo predaja zadaca i kolokvij koji se doduse pise na faksu, ali se zadaci dobiju 2,3 tjedna unaprijed pa ih se doma stigne apsolvirati).
 Dakle, sve u svemu, smjer je ok, malo ljudi na smjeru dopusta ugodan rad i dosta "prisan" odnos s profesorima, preporucam svima kojima matematika nije mrska...
-  
-1 
+
+1
 (Feb 19, 2013) Petar Bakić je rekao:
-@Petar Bakić 
+@Petar Bakić
 * profesorima :D
-  
+
 (Feb 19, 2013) Petar Bakić je rekao:
 Sto se tice prve godine teorijske, meni je dosta zanimljiva. Imam osjecaj da vec u prvom semestru cujes za hrpu stvari za koje nisi ni znao da postoje. Neki kolegiji su klasika - algebra (u prvom semestru se dosta svede na ponavljanje algebarskih struktura, al pokazu se i neke nove/fora stvari), normirani (uvijek mora bit barem jedna analiza u semestru)... Ima nekih skroz novih stvari - diferencijalna geometrija npr. - ide dosta sporo, al svejedno su dosta lijepe stvari koje se tamo rade. Malo cudni predmeti su projektivna (prvenstveno zato sto je dosta staromodna, ne nadovezuje se ni na sto, tj. izolirana je malo...) i metricki (vidjet cete :D). Sto se kolicine posla tice, cini mi se otprilike slicno kao i prije. Dosta vise stvari (kolokvija) se dobiva za napraviti doma. Sigurno je neobicno to sto, ako upisujete teorijsku, dolazite u grupu s jos najvise 10 ljudi... To nekad ima prednosti (npr, moze se sve dogovorit s prednostima), al ocito i nedostataka. Btw, profesori do sada su bili stvarno super, ne samo kao predavaci nego opcenito... Uglavnom, ja bih dao dosta pozitivnu ocjenu ovom smjeru. Vjerojatno cu vise znat rec nakon jos kojeg semestra, al za sad sam ful zadovoljan sto sam ovo upisao :)
-  
-2 
+
+2
 (Feb 19, 2013) Ivan Krijan je rekao:
-Kako je po generaciji maksimalno 10 ljudi na ovom smjeru, atmosfera je i više nego opuštena. Termini svega (kolokvija, usmenih, zadaća...) su fleksibilni i s profesorima se sve da dogovoriti. Posla ima tu negdje kao i na preddiplomskom, ali je razlika u tome što radite (Ako ste upisali ovaj smjer jer ste to željeli.) više onog što vas zanima i što vam je draže. Iz nekih kolegija se kolokviji dobivaju za doma, uz neki razumni rok za predaju rješenja. Glavni predmeti su Algebra 1 i 2 i Algebarska teorija brojeva 1 i 2, na njima se nauče osnove onoga što im naziv govori i stvari postanu zanimljive! Također se prođe kroz osnove funkcionalne analize (Normirani prostori i operatori na istima.), diferencijalne geometrije, (algebarske) topologije... Slučaju se i kolegiji iz teorije vjerojatnosti i parcijalnih diferencijalnih jednadžbi. U svim kolegijima je koncentracija na njihovom teorijskom dijelu, vježbi ili nema ili su sporedne u odnosu na predavanja. Što se geometrijskih predmeta tiče, to su projektivna i neeuklidska geometrija. Oba dosta odskaču od svega što ste do sada vidjeli i ne nadovezuju se ni na što (Čak niti jedna na drugu.). To je staromodni tip predmeta, imate predavanja, naučite ih, idete na usmeni i to je to... nema drugih utjecaja na ocjenu, tj. na prolaz/pad. Uz sve to postoji još podosta izbornih kolegija... 
+Kako je po generaciji maksimalno 10 ljudi na ovom smjeru, atmosfera je i više nego opuštena. Termini svega (kolokvija, usmenih, zadaća...) su fleksibilni i s profesorima se sve da dogovoriti. Posla ima tu negdje kao i na preddiplomskom, ali je razlika u tome što radite (Ako ste upisali ovaj smjer jer ste to željeli.) više onog što vas zanima i što vam je draže. Iz nekih kolegija se kolokviji dobivaju za doma, uz neki razumni rok za predaju rješenja. Glavni predmeti su Algebra 1 i 2 i Algebarska teorija brojeva 1 i 2, na njima se nauče osnove onoga što im naziv govori i stvari postanu zanimljive! Također se prođe kroz osnove funkcionalne analize (Normirani prostori i operatori na istima.), diferencijalne geometrije, (algebarske) topologije... Slučaju se i kolegiji iz teorije vjerojatnosti i parcijalnih diferencijalnih jednadžbi. U svim kolegijima je koncentracija na njihovom teorijskom dijelu, vježbi ili nema ili su sporedne u odnosu na predavanja. Što se geometrijskih predmeta tiče, to su projektivna i neeuklidska geometrija. Oba dosta odskaču od svega što ste do sada vidjeli i ne nadovezuju se ni na što (Čak niti jedna na drugu.). To je staromodni tip predmeta, imate predavanja, naučite ih, idete na usmeni i to je to... nema drugih utjecaja na ocjenu, tj. na prolaz/pad. Uz sve to postoji još podosta izbornih kolegija...
 Rekao bih samo da postoji osjetna razlika u težini između 1. i 2. godine. 1. godina je dosta lakša i rasterećenija, dok vas na 2. dočekaju TV i PDJ, a u drugom semestru uz sve to još morate i diplomski pisati. Tako da je moj savjet svakako pokušati već na 1. godini srediti barem izborne predmete za 2. godinu!
-  
-2 
+
+2
 rss

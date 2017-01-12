@@ -1,6 +1,6 @@
-Zimski Semestar
-Ljetni Semestar
-Pravila i Uvjeti
+Zimski
+Ljetni
+Uvjeti
 Aplikacija
 Diplomski
 Linkovi
@@ -15,9 +15,9 @@ Komentari
 Ime
 
 Napiši svoj komentar ovdje
-Komentiraj  by Html Comment Box [login] 
+Komentiraj  by Html Comment Box [login]
 (Mar 13, 2013) Ervin Duraković je rekao:
 Sam smjer koncipiran je na primjeni matematičkih alata u ekonomiji (što može predstavljati prednost spram klasičnih ekonomista :)). Otprilike, prva godina bila bi teoretsko upoznavanje sa osnovama ekonomije, dok se na drugoj godini obrađuju neke kvantitativne metode u financijama. Mislim kako je navedeni smjer zanimljiv svima onima, koje zanima primjena matematičkih metoda, modela, statistike u financijama. Većina profesora koja predaje (npr. Cota, Vujčić, Penzar) nisu samo puki predavači, već sve ono što predaju rade u praksi, što je, barem meni, bilo vrlo bitno. Za sve one koje ne zanima puka matematička teorija, već je žele primjeniti u praksi i steći dodatna znanja vezana za ekonomiju, navedeni smjer predstavlja sjajnu kombinaciju.
-  
-6 
+
+6
 rss
